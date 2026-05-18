@@ -1,18 +1,12 @@
-## Getting Started
+## Introducción
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este es un Analizador de expresiones aritméticas construido con ANTLR4, lenguaje Java en VS Code
 
-## Folder Structure
+## Requisitos
+Tener instalado VS Code, Node .js, Java JDK
 
-The workspace contains two folders by default, where:
+## Instalación
+En alguna terminal, puede ser la de VS Code o Microsoft Powershell pegar el siguiente código para poder clonar el proyecto
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+git clone
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
